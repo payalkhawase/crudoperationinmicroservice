@@ -14,6 +14,9 @@ public class Student {
 	private String name;
 	private String address;
 	private float marks;
+	
+	private int sakshi;
+	
 	public int getRollno() {
 		return rollno;
 	}
